@@ -35,14 +35,14 @@ To see a demonstration of the Cube Cinema Android application, please watch the 
 ## Screenshots
 
 <div>
-    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/24e53a9a-197d-4bb9-a051-3c03427cf0f5" alt="s1" width="250" />
-    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/f79a67ed-7c30-4008-8dfd-f2dabb68132e" alt="s2" width="250" />
-   <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/93f3f8b2-1304-4b1d-bc70-327ed01b3626" alt="s3" width="250" />
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/24e53a9a-197d-4bb9-a051-3c03427cf0f5" alt="s1" width="200" />
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/f79a67ed-7c30-4008-8dfd-f2dabb68132e" alt="s2" width="200" />
+   <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/93f3f8b2-1304-4b1d-bc70-327ed01b3626" alt="s3" width="200" />
 </div>
 <div>
-    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/5264d776-0eab-450c-b08b-a1070ca00655" alt="s4" width="250" />
-    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/a37b3749-b87f-4af2-9f50-ae86080398d5" alt="s5" width="250" />
-    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/60952ed7-c4c0-4c5c-9b0a-c0767130f9d2" alt="s6" width="250" />
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/5264d776-0eab-450c-b08b-a1070ca00655" alt="s4" width="200" />
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/a37b3749-b87f-4af2-9f50-ae86080398d5" alt="s5" width="200" />
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/60952ed7-c4c0-4c5c-9b0a-c0767130f9d2" alt="s6" width="200" />
 </div>
 
 ## APK Download
