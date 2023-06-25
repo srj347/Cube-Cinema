@@ -6,11 +6,11 @@ This README file provides an overview of the application, including information 
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Demo Video](#demo-video)
+- [Screenshots](#screenshots)
 - [APK Download](#apk-download)
 
-## Technologies & Libraries Used
+## Technologies Used
 
 - Android Studio
 - Kotlin
@@ -26,20 +26,24 @@ This README file provides an overview of the application, including information 
 - Glide: It is a fast, efficient, and widely used image loading and caching library, primarily focused on smooth scrolling
 - CircleImageView Library
 
-## Screenshots
-
-![Screenshot 1](s1.jpeg)
-![Screenshot 2](s2.jpeg)
-![Screenshot 3](s3.jpeg)
-![Screenshot 4](s4.jpeg)
-![Screenshot 5](s5.jpeg)
-![Screenshot 6](s6.jpeg)
-
 ## Demo Video
 
 To see a demonstration of the Cube Cinema Android application, please watch the following demo video:
 
-[![Demo Video]()
+[Demo Video](https://www.youtube.com/watch?v=tW-zSsCS2Jg)
+
+## Screenshots
+
+<div>
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/24e53a9a-197d-4bb9-a051-3c03427cf0f5" alt="s1" width="250" />
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/f79a67ed-7c30-4008-8dfd-f2dabb68132e" alt="s2" width="250" />
+   <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/93f3f8b2-1304-4b1d-bc70-327ed01b3626" alt="s3" width="250" />
+</div>
+<div>
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/5264d776-0eab-450c-b08b-a1070ca00655" alt="s4" width="250" />
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/a37b3749-b87f-4af2-9f50-ae86080398d5" alt="s5" width="250" />
+    <img src="https://github.com/srj347/Cube-Cinema/assets/69077430/60952ed7-c4c0-4c5c-9b0a-c0767130f9d2" alt="s6" width="250" />
+</div>
 
 ## APK Download
 
